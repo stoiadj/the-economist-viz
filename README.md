@@ -1,4 +1,4 @@
 # the-economist-viz
 
-## Bootcamp for data analysis without coding.
+#### Bootcamp for data analysis without coding.
 
