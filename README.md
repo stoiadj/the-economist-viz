@@ -1,6 +1,6 @@
 # the-economist-viz
 
-#### Bootcamp for data analysis without coding.
+## Bootcamp for data analysis without coding.
 
 ### Graph 1
 ![graph1](https://github.com/stoiadj/the-economist-viz/blob/main/bootcamp1.png)
